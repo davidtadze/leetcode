@@ -1,2 +1,2 @@
-set(SOURCE_FILES main.cpp)
-add_executable(morpheus ${SOURCE_FILES})
+add_subdirectory(3)
+add_subdirectory(4)
